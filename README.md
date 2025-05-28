@@ -2,7 +2,7 @@
 
 A C# Windows Forms application for pizza ordering with order customization, cart management, and order summary.
 
-![Screenshot](screenshot.png)
+![Screenshot](Resources/Screenshot.png)
 
 ## Features
 
